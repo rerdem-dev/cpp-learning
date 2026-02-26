@@ -1,16 +1,30 @@
 # rerdem-dev
 
-This repository documents my C++ learning process.
+This repository documents my journey in mastering C++ from the ground up.
 
-## What I'm working on
-- Core C++ fundamentals (functions, arrays, pointers)
-- Algorithms and problem solving
-- Console-based projects
-- Foundations for game development
+## Focus Areas
 
-## Background
-I am a student learning programming seriously.
-My goal is to build strong fundamentals rather than rushing into frameworks.
+- Core C++ fundamentals (functions, arrays, pointers, memory basics)
+- Problem solving and algorithmic thinking
+- Building structured console applications
+- Preparing foundations for game development and systems programming
 
-## Notes
-This repository will grow over time as I improve my skills and add projects.
+## Philosophy
+
+I prioritize understanding how things work internally rather than jumping into high-level frameworks.  
+My goal is to build strong, long-term programming fundamentals.
+
+## Current Stage
+
+Actively practicing:
+- Clean code structure
+- Modular program design
+- Logical thinking and debugging discipline
+
+## Growth Plan
+
+This repository will evolve with:
+- More complex projects
+- Algorithm implementations
+- Data structures practice
+- Performance improvements and refactoring
